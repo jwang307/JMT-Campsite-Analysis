@@ -1,0 +1,460 @@
+﻿location,vegetation_ground_cover_off_site,vegetation_ground_cover_on_site,rock_substrate,grassedge_cover_on_site,grassedge_cover_off_site,use_level,sum_area_feet_squared,condition_class,access_trails,exposed_soil,distance_to_water,Composite Score,site_issue
+Lake Virigina,6-25%,0-5%,0-5%,0-5%,6-25%,,100,Class 3,0,80,1,,Less than 100 feet from trail 
+Lake Virigina,0-5%,0-5%,0-5%,0-5%,0-5%,Medium,80,Class 3,0,40,1,,Less than 100 feet from trail 
+Lake Virigina,0-5%,0-5%,6-25%,0-5%,0-5%,High,96,Class 2,0,50,1,,Less than 100 feet from trail 
+Lake Virigina,6-25%,0-5%,0-5%,0-5%,0-5%,High,40,Class 4,0,75,1,,Less than 100 feet from trail 
+Lake Virigina,51-75%,6-25%,0-5%,6-25%,51-75%,Medium,50,Class 3,0,60,2,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Lake Virigina,51-75%,0-5%,0-5%,0-5%,51-75%,High,36,Class 4,0,90,1,,In Meadow/ on Soft Vegetation
+Lake Virigina,51-75%,0-5%,0-5%,0-5%,51-75%,High,30,Class 3,0,90,1,,In Meadow/ on Soft Vegetation
+Lake Virigina,51-75%,6-25%,6-25%,6-25%,51-75%,High,624,Class 3,0,60,2,,Less than 100 feet from water
+Lake Virigina,6-25%,0-5%,0-5%,0-5%,6-25%,Low,100,Class 2,1,70,2,,Less than 100 feet from water
+Lake Virigina,0-5%,0-5%,0-5%,0-5%,0-5%,Medium,100,Class 3,0,60,1,,Less than 100 feet from trail 
+Lake Virigina,0-5%,0-5%,0-5%,0-5%,0-5%,High,100,Class 4,0,70,1,,Less than 100 feet from trail 
+Lake Virigina,0-5%,0-5%,0-5%,0-5%,0-5%,High,600,Class 4,0,90,1,,Less than 100 feet from trail 
+Lake Virigina,0-5%,0-5%,0-5%,0-5%,0-5%,High,40,Class 4,0,80,1,,Less than 100 feet from trail 
+Lake Virigina,0-5%,0-5%,6-25%,0-5%,0-5%,High,160,Class 3,2,80,1,,Less than 100 feet from trail 
+Lake Virigina,0-5%,0-5%,0-5%,0-5%,0-5%,High,80,Class 4,0,80,1,,Less than 100 feet from trail 
+Lake Virigina,0-5%,0-5%,0-5%,0-5%,0-5%,Medium,70,Class 4,0,60,1,,Less than 100 feet from trail 
+Purple Lake,51-75%,0-5%,0-5%,0-5%,51-75%,High,104,Class 4,0,30,2,,Less than 100 feet from water
+Lake Virigina,0-5%,0-5%,6-25%,0-5%,0-5%,Medium,36,Class 2,1,15,1,,Less than 100 feet from trail 
+Lake Virigina,6-25%,0-5%,0-5%,0-5%,6-25%,Low,48,Class 1,1,5,3,,Less than 100 feet from water
+Purple Lake,6-25%,0-5%,0-5%,0-5%,0-5%,High,112,Class 4,0,75,1,,Less than 100 feet from trail 
+Lake Virigina,6-25%,0-5%,0-5%,0-5%,6-25%,High,200,Class 4,2,90,2,,Less than 100 feet from water
+Lake Virigina,51-75%,6-25%,6-25%,6-25%,51-75%,High,100,Class 3,0,70,2,,Less than 100 feet from water
+Lake Virigina,0-5%,0-5%,6-25%,0-5%,0-5%,High,72,Class 3,3,10,2,,"Less than 100 feet from water, Less than 100 feet from trail "
+Lake Virigina,0-5%,0-5%,6-25%,0-5%,0-5%,Medium,40,Class 2,0,60,1,,Less than 100 feet from trail 
+Lake Virigina,0-5%,0-5%,6-25%,0-5%,0-5%,Low,34,Class 1,1,5,3,,Less than 100 feet from water
+Lake Virigina,51-75%,0-5%,0-5%,0-5%,51-75%,Medium,50,Class 4,1,90,3,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Duck Lake,6-25%,0-5%,0-5%,0-5%,6-25%,High,70,Class 3,1,15,3,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Within Restricted area (Lake outlet, closure, etc)"
+Lake Virigina,6-25%,0-5%,0-5%,0-5%,6-25%,,40,Class 3,1,95,3,,Less than 100 feet from water
+Lake Virigina,51-75%,0-5%,0-5%,0-5%,51-75%,,80,Class 4,1,95,1,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Lake Virigina,51-75%,0-5%,6-25%,6-25%,51-75%,Medium,1000,Class 4,1,75,2,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Purple Lake,6-25%,0-5%,6-25%,0-5%,6-25%,High,864,Class 3,0,25,4,,"Less than 100 feet from water, Less than 100 feet from trail "
+Purple Lake,6-25%,0-5%,0-5%,0-5%,6-25%,Medium,108,Class 3,2,100,4,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Purple Lake,26-50%,0-5%,0-5%,0-5%,6-25%,High,128,Class 4,2,65,1,,"Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Duck Lake,96-100%,0-5%,0-5%,0-5%,96-100%,Medium,80,Class 4,0,80,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Purple Lake,26-50%,0-5%,0-5%,0-5%,6-25%,High,700,Class 4,1,50,4,,"Less than 100 feet from water, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Duck Lake,6-25%,0-5%,0-5%,0-5%,6-25%,High,50,Class 4,0,95,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Lake Virigina,6-25%,0-5%,0-5%,0-5%,6-25%,High,60,Class 4,1,100,2,,"Less than 100 feet from water, Less than 100 feet from trail "
+Ediza Lake ,76-95%,26-50%,0-5%,26-50%,51-75%,Low,300,Class 2,2,40,2,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Purple Lake,26-50%,96-100%,0-5%,96-100%,26-50%,Low,45,Class 1,1,0,4,,"Less than 100 feet from water, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Duck Lake,51-75%,51-75%,0-5%,51-75%,51-75%,Low,64,Class 1,1,10,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Within Restricted area (Lake outlet, closure, etc)"
+Ediza Lake ,51-75%,6-25%,0-5%,6-25%,51-75%,High,100,Class 3,1,70,1,,In Meadow/ on Soft Vegetation
+Purple Lake,76-95%,0-5%,0-5%,0-5%,76-95%,High,224,Class 4,2,95,4,,Less than 100 feet from water
+Lake Virigina,6-25%,0-5%,0-5%,0-5%,6-25%,,200,Class 3,0,95,2,,Less than 100 feet from water
+Ediza Lake ,26-50%,0-5%,0-5%,0-5%,26-50%,High,60,Class 4,1,30,1,,Less than 100 feet from trail 
+Ediza Lake ,26-50%,0-5%,51-75%,0-5%,26-50%,High,30,Class 2,1,15,1,,"Within Restricted area (Lake outlet, closure, etc)"
+Ediza Lake ,26-50%,6-25%,0-5%,6-25%,26-50%,Medium,30,Class 3,2,75,2,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Lake Virigina,6-25%,0-5%,0-5%,0-5%,6-25%,,40,Class 4,2,90,2,,Less than 100 feet from water
+Ediza Lake ,26-50%,0-5%,6-25%,0-5%,26-50%,Low,20,Class 3,1,90,2,,Less than 100 feet from water
+Ediza Lake ,51-75%,0-5%,0-5%,0-5%,51-75%,High,108,Class 3,3,20,4,,Less than 100 feet from water
+Rosalie Lake,26-50%,0-5%,0-5%,0-5%,26-50%,Medium,40,Class 2,1,20,2,,
+Ediza Lake ,51-75%,96-100%,0-5%,96-100%,51-75%,Low,100,Class 1,2,5,4,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Lake Virigina,51-75%,6-25%,0-5%,6-25%,26-50%,Medium,140,Class 2,1,45,4,,Less than 100 feet from water
+Lake Virigina,51-75%,6-25%,6-25%,6-25%,51-75%,Low,54,Class 2,2,30,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Ediza Lake ,26-50%,0-5%,0-5%,0-5%,26-50%,Medium,25,Class 3,3,100,4,,Less than 100 feet from water
+Ediza Lake ,26-50%,0-5%,6-25%,0-5%,26-50%,Medium,350,Class 3,1,60,3,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Rosalie  ,0-5%,0-5%,0-5%,0-5%,0-5%,Medium,70,Class 3,2,40,2,,
+Purple Lake,76-95%,0-5%,0-5%,0-5%,51-75%,High,100,Class 3,2,35,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Purple Lake,76-95%,0-5%,6-25%,0-5%,51-75%,High,100,Class 4,1,35,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Less than 100 feet from trail "
+Ediza Lake ,51-75%,96-100%,0-5%,96-100%,51-75%,Low,150,Class 1,2,15,4,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Rosalie,0-5%,0-5%,0-5%,0-5%,0-5%,High,150,Class 4,3,90,2,,
+Rosalie Lake,0-5%,0-5%,0-5%,0-5%,0-5%,High,25,Class 2,1,70,3,,
+Rosalie Lake,0-5%,0-5%,0-5%,0-5%,0-5%,High,200,Class 3,1,90,3,,
+Lake Virigina,6-25%,6-25%,0-5%,6-25%,6-25%,Low,60,Class 2,1,3,4,,Less than 100 feet from water
+Rosalie,0-5%,0-5%,0-5%,0-5%,0-5%,,20,Class 4,1,100,3,,
+Rosalie  ,6-25%,0-5%,26-50%,0-5%,6-25%,High,80,Class 4,1,70,3,,
+Rosalie Lake,26-50%,0-5%,0-5%,0-5%,26-50%,High,96,Class 4,1,45,4,,
+Rosalie,0-5%,0-5%,0-5%,0-5%,0-5%,High,100,Class 4,4,90,3,,
+Rosalie,0-5%,0-5%,0-5%,0-5%,0-5%,High,25,Class 4,4,90,4,,
+Lake Virigina,51-75%,6-25%,0-5%,6-25%,51-75%,Medium,54,Class 2,1,20,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Shadow Creek,6-25%,0-5%,76-95%,0-5%,6-25%,High,92,Class 3,1,80,2,,
+Rosalie,0-5%,0-5%,0-5%,0-5%,0-5%,High,36,Class 4,4,90,4,,Less than 100 feet from water
+Lake Virigina,26-50%,26-50%,0-5%,26-50%,26-50%,Low,65,Class 1,2,10,4,,Less than 100 feet from water
+Shadow Creek,26-50%,0-5%,51-75%,0-5%,26-50%,High,700,Class 3,1,30,3,,Less than 100 feet from water
+Shadow Creek,6-25%,0-5%,0-5%,0-5%,6-25%,Medium,200,Class 4,0,70,2,,
+Shadow Creek,26-50%,0-5%,0-5%,0-5%,26-50%,High,150,Class 4,1,75,1,,Less than 100 feet from water
+Shadow Creek,51-75%,0-5%,0-5%,0-5%,26-50%,High,100,Class 4,1,45,4,,Less than 100 feet from water
+Ediza Lake ,6-25%,0-5%,51-75%,0-5%,6-25%,High,185,Class 4,1,100,2,,Less than 100 feet from water
+Ediza Lake ,6-25%,0-5%,76-95%,0-5%,6-25%,High,25,Class 4,0,40,3,,Less than 100 feet from water
+Rosalie Lake,26-50%,0-5%,0-5%,0-5%,6-25%,High,80,Class 3,2,20,2,,
+Shadow Creek,6-25%,0-5%,0-5%,0-5%,6-25%,Medium,70,Class 3,1,40,3,,
+Shadow Creek,6-25%,0-5%,0-5%,0-5%,6-25%,Medium,50,Class 2,1,20,2,,
+Shadow Creek,26-50%,0-5%,0-5%,0-5%,26-50%,High,70,Class 4,0,45,2,,
+Rosalie  ,0-5%,0-5%,0-5%,0-5%,0-5%,Medium,70,Class 3,1,50,2,,
+Rosalie,0-5%,0-5%,0-5%,0-5%,0-5%,High,25,Class 4,1,75,2,,
+Shadow Creek,6-25%,0-5%,0-5%,0-5%,6-25%,High,36,Class 3,0,30,2,,Less than 100 feet from water
+Shadow Creek,6-25%,0-5%,6-25%,0-5%,6-25%,Medium,600,Class 4,2,40,4,,Less than 100 feet from water
+Shadow Creek,6-25%,0-5%,6-25%,0-5%,6-25%,,20,Class 3,1,30,3,,
+Shadow Creek,6-25%,0-5%,0-5%,0-5%,6-25%,High,750,Class 4,3,70,4,,Less than 100 feet from water
+Shadow Creek,0-5%,0-5%,0-5%,0-5%,0-5%,Medium,150,Class 3,1,50,1,,
+Shadow Creek,26-50%,0-5%,0-5%,0-5%,26-50%,High,96,Class 3,4,40,1,,
+Shadow Creek,0-5%,0-5%,0-5%,0-5%,0-5%,High,144,Class 4,1,80,1,,
+Shadow Creek,51-75%,0-5%,0-5%,0-5%,51-75%,High,120,Class 4,1,100,1,,"Within Restricted area (Lake outlet, closure, etc)"
+Shadow Creek,6-25%,0-5%,0-5%,0-5%,0-5%,Medium,340,Class 2,3,10,4,,
+Shadow Lake,6-25%,0-5%,6-25%,0-5%,6-25%,,75,Class 4,1,70,3,,
+Shadow Lake,26-50%,0-5%,6-25%,0-5%,26-50%,High,75,Class 4,1,15,3,,
+Rosalie  ,6-25%,0-5%,96-100%,0-5%,0-5%,Medium,115,Rock (R),1,0,4,,
+Rosalie  ,6-25%,0-5%,76-95%,0-5%,6-25%,Medium,150,Rock (R),1,20,3,,
+Shadow Creek,6-25%,0-5%,0-5%,0-5%,6-25%,High,600,Class 4,1,40,3,,Less than 100 feet from water
+Shadow Lake,6-25%,0-5%,0-5%,0-5%,6-25%,Medium,25,Class 4,0,50,4,,
+Shadow Creek,6-25%,0-5%,0-5%,0-5%,6-25%,,100,Class 3,1,25,4,,
+Rosalie  ,6-25%,0-5%,6-25%,0-5%,0-5%,Medium,80,Class 4,1,85,2,,
+Shadow Creek,0-5%,0-5%,0-5%,0-5%,0-5%,High,50,Class 4,1,75,3,,Less than 100 feet from water
+Shadow Lake,26-50%,0-5%,0-5%,0-5%,0-5%,Medium,324,Class 2,1,10,1,,"Within Restricted area (Lake outlet, closure, etc)"
+Shadow Creek,0-5%,0-5%,0-5%,0-5%,0-5%,High,800,Class 4,1,85,3,,
+Shadow Lake,6-25%,0-5%,0-5%,0-5%,6-25%,Low,70,Class 3,1,20,3,,
+Shadow Creek,26-50%,0-5%,0-5%,0-5%,26-50%,High,400,Class 4,1,90,2,,Less than 100 feet from water
+Shadow Creek,0-5%,0-5%,0-5%,0-5%,0-5%,High,100,Class 3,1,85,3,,
+Lake Virigina,51-75%,6-25%,6-25%,26-50%,51-75%,Medium,18,Class 2,1,30,3,,Less than 100 feet from water
+Lake Virigina,51-75%,26-50%,6-25%,26-50%,51-75%,Medium,480,Class 2,1,10,4,,Less than 100 feet from water
+Lake Virigina,6-25%,0-5%,0-5%,0-5%,6-25%,Low,36,Class 1,0,10,2,,Less than 100 feet from water
+Lake Virigina,26-50%,6-25%,0-5%,6-25%,26-50%,Medium,60,Class 2,0,40,1,,Less than 100 feet from trail 
+Lake Virigina,6-25%,6-25%,0-5%,6-25%,6-25%,,60,Class 2,1,50,4,,Less than 100 feet from water
+Lake Virigina,26-50%,6-25%,6-25%,6-25%,26-50%,High,40,Class 4,3,60,1,,Less than 100 feet from trail 
+Lake Virigina,26-50%,6-25%,0-5%,6-25%,26-50%,Medium,100,Class 3,0,60,1,,Less than 100 feet from trail 
+Lake Virigina,51-75%,26-50%,6-25%,26-50%,51-75%,Medium,736,Class 2,2,20,4,,In Meadow/ on Soft Vegetation
+Purple Lake,6-25%,0-5%,0-5%,0-5%,6-25%,High,476,Class 4,1,90,2,,"Less than 100 feet from water, Less than 100 feet from trail "
+Duck Lake,26-50%,0-5%,6-25%,0-5%,26-50%,High,25,Class 3,0,70,3,,"Less than 100 feet from water, Less than 100 feet from trail "
+Ediza Lake ,6-25%,6-25%,0-5%,6-25%,6-25%,Low,450,Class 2,2,50,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Within Restricted area (Lake outlet, closure, etc)"
+Duck Lake,26-50%,0-5%,0-5%,0-5%,26-50%,High,70,Class 4,0,80,3,,"Less than 100 feet from water, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Rosalie,0-5%,0-5%,0-5%,0-5%,0-5%,High,150,Class 4,1,80,2,,
+Shadow Creek,51-75%,0-5%,0-5%,0-5%,51-75%,High,300,Class 3,0,20,1,,"Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Shadow Creek,6-25%,0-5%,0-5%,0-5%,0-5%,High,75,Class 3,1,40,2,,
+Ediza Lake ,0-5%,0-5%,0-5%,0-5%,0-5%,Low,35,Class 1,1,5,2,,Less than 100 feet from water
+Shadow Creek,0-5%,0-5%,0-5%,0-5%,0-5%,High,50,Class 3,2,100,4,,
+Shadow Creek,26-50%,0-5%,6-25%,0-5%,6-25%,High,576,Class 3,1,30,2,,
+Rosalie  ,51-75%,6-25%,0-5%,6-25%,51-75%,High,70,Class 4,1,80,2,,
+Duck Lake,76-95%,6-25%,0-5%,6-25%,51-75%,High,200,Class 5,2,55,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Less than 100 feet from trail "
+Shadow Creek,26-50%,0-5%,0-5%,0-5%,26-50%,,35,Class 4,1,50,2,,Less than 100 feet from trail 
+Duck Lake,76-95%,51-75%,0-5%,51-75%,51-75%,High,120,Class 5,3,20,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Less than 100 feet from trail "
+Lake Virigina,6-25%,0-5%,0-5%,0-5%,6-25%,High,32,Class 4,2,80,4,,Less than 100 feet from water
+Rosalie Lake,0-5%,0-5%,0-5%,0-5%,0-5%,High,20,Class 4,1,90,4,,
+Lake Virigina,0-5%,0-5%,6-25%,0-5%,0-5%,High,60,Class 4,0,85,3,,Less than 100 feet from water
+Shadow Creek,6-25%,0-5%,0-5%,0-5%,6-25%,High,70,Class 3,1,100,2,,
+Lake Virigina,51-75%,0-5%,0-5%,0-5%,51-75%,Low,40,Class 4,1,95,1,,Less than 100 feet from trail 
+Lake Virigina,6-25%,0-5%,0-5%,0-5%,6-25%,High,36,Class 4,2,95,4,,Less than 100 feet from water
+Lake Virigina,26-50%,6-25%,6-25%,6-25%,26-50%,Medium,300,Class 3,1,60,2,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Less than 100 feet from trail "
+Purple Lake,51-75%,0-5%,0-5%,0-5%,51-75%,High,100,Class 3,1,70,4,,"Less than 100 feet from water, Less than 100 feet from trail "
+Purple Lake,6-25%,0-5%,0-5%,0-5%,6-25%,Medium,35,Class 4,1,10,4,,Less than 100 feet from water
+Duck Lake,6-25%,0-5%,0-5%,0-5%,6-25%,High,64,Class 3,1,15,2,,"Less than 100 feet from water, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Duck Lake,51-75%,26-50%,6-25%,26-50%,51-75%,Medium,84,Class 2,0,25,3,,Less than 100 feet from water
+Lake Virigina,76-95%,6-25%,6-25%,6-25%,76-95%,High,504,Class 4,2,55,2,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Less than 100 feet from trail "
+Duck Lake,26-50%,0-5%,0-5%,0-5%,26-50%,High,120,Class 4,1,95,1,,"Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Ediza Lake ,26-50%,0-5%,76-95%,0-5%,26-50%,High,276,Class 2,1,20,3,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Ediza Lake ,51-75%,26-50%,0-5%,26-50%,51-75%,,600,Class 3,5,50,1,,In Meadow/ on Soft Vegetation
+Lake Virigina,6-25%,0-5%,0-5%,0-5%,6-25%,,100,Class 4,0,95,1,,Less than 100 feet from trail 
+Shadow Creek,26-50%,6-25%,0-5%,6-25%,26-50%,High,4000,Class 4,1,60,4,,Less than 100 feet from water
+Lake Virigina,26-50%,0-5%,0-5%,0-5%,26-50%,High,120,Class 4,0,80,1,,Less than 100 feet from trail 
+Rosalie  ,51-75%,6-25%,6-25%,6-25%,51-75%,High,80,Class 3,1,60,1,,
+Duck Lake,6-25%,0-5%,0-5%,0-5%,6-25%,High,128,Class 4,3,80,4,,Less than 100 feet from water
+Lake Virigina,6-25%,0-5%,6-25%,0-5%,6-25%,,75,Class 3,0,80,1,,Less than 100 feet from trail 
+Ediza Lake ,76-95%,0-5%,96-100%,0-5%,76-95%,Medium,500,Class 3,3,20,1,,"Within Restricted area (Lake outlet, closure, etc)"
+Duck Lake,6-25%,0-5%,0-5%,0-5%,6-25%,High,40,Class 4,3,95,1,,"Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Lake Virigina,26-50%,0-5%,6-25%,0-5%,26-50%,Medium,200,Class 4,0,85,1,,Less than 100 feet from trail 
+Ediza Lake ,6-25%,0-5%,6-25%,0-5%,6-25%,Medium,80,Class 3,1,75,3,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Shadow Creek,6-25%,0-5%,0-5%,0-5%,0-5%,Medium,225,Class 3,0,30,2,,Less than 100 feet from water
+Shadow Creek,0-5%,0-5%,0-5%,0-5%,0-5%,Medium,96,Class 3,1,40,1,,
+Lake Virigina,0-5%,6-25%,0-5%,0-5%,0-5%,,300,Class 2,0,85,2,,Less than 100 feet from water
+Lake Virigina,6-25%,0-5%,0-5%,0-5%,6-25%,Medium,24,Class 3,1,15,4,,Less than 100 feet from water
+Shadow Lake,0-5%,0-5%,0-5%,0-5%,0-5%,Medium,200,Class 2,1,5,1,,
+Shadow Creek,6-25%,0-5%,0-5%,0-5%,0-5%,,80,Class 4,1,80,2,,
+Lake Virigina,26-50%,6-25%,6-25%,6-25%,26-50%,High,160,Class 3,0,25,2,,Less than 100 feet from water
+Duck Lake,51-75%,26-50%,0-5%,6-25%,51-75%,Low,60,Class 2,2,20,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Shadow Lake,51-75%,0-5%,0-5%,0-5%,26-50%,High,120,Class 3,1,20,1,,"Within Restricted area (Lake outlet, closure, etc)"
+Shadow Creek,6-25%,0-5%,0-5%,0-5%,0-5%,Medium,70,Class 2,1,5,3,,
+Shadow Lake,51-75%,0-5%,0-5%,0-5%,26-50%,High,370,Class 4,1,95,3,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Shadow Lake,6-25%,0-5%,0-5%,0-5%,0-5%,High,750,Class 4,2,80,1,,
+Shadow Creek,6-25%,0-5%,0-5%,0-5%,6-25%,,100,Class 3,2,30,4,,Less than 100 feet from water
+Duck Lake,76-95%,0-5%,6-25%,0-5%,51-75%,High,70,Class 5,0,40,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Less than 100 feet from trail "
+Duck Lake,51-75%,0-5%,6-25%,26-50%,26-50%,,80,Class 4,1,70,4,,Less than 100 feet from water
+Shadow Lake,0-5%,0-5%,96-100%,0-5%,0-5%,High,48,Class 2,0,70,1,,
+Ediza Lake ,51-75%,26-50%,6-25%,26-50%,51-75%,Medium,50,Class 2,2,40,3,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Shadow Lake,6-25%,0-5%,51-75%,0-5%,6-25%,High,120,Class 4,2,40,1,,
+Rosalie,6-25%,0-5%,0-5%,0-5%,6-25%,Medium,20,Class 3,1,50,2,,
+Shadow Creek,26-50%,0-5%,0-5%,0-5%,26-50%,High,80,Class 3,1,20,3,,
+Ediza Lake ,26-50%,0-5%,0-5%,0-5%,76-95%,Medium,60,Class 3,3,40,4,,Less than 100 feet from water
+Rosalie  ,6-25%,0-5%,6-25%,0-5%,0-5%,High,200,Class 4,1,75,1,,
+Shadow Creek,26-50%,0-5%,6-25%,0-5%,26-50%,Medium,150,Class 3,1,15,1,,"Within Restricted area (Lake outlet, closure, etc)"
+Rosalie Lake,6-25%,0-5%,0-5%,0-5%,6-25%,High,80,Class 4,1,90,1,,
+Shadow Creek,26-50%,0-5%,0-5%,0-5%,26-50%,High,20,Class 4,2,100,4,,
+Duck Lake,51-75%,0-5%,0-5%,0-5%,26-50%,High,100,Class 5,0,90,4,,Less than 100 feet from water
+Shadow Creek,6-25%,0-5%,0-5%,0-5%,6-25%,High,100,Class 4,1,75,1,,
+Shadow Lake,6-25%,0-5%,0-5%,0-5%,0-5%,Medium,50,Class 2,1,5,3,,
+Shadow Lake,6-25%,0-5%,0-5%,0-5%,6-25%,Medium,225,Class 2,1,50,2,,
+Duck Lake,51-75%,0-5%,6-25%,0-5%,51-75%,High,72,Class 4,0,80,1,,In Meadow/ on Soft Vegetation
+Ediza Lake ,26-50%,6-25%,0-5%,6-25%,26-50%,Low,75,Class 1,1,10,4,,Less than 100 feet from water
+Ediza Lake ,96-100%,76-95%,0-5%,76-95%,96-100%,Low,272,Class 2,1,10,3,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Within Restricted area (Lake outlet, closure, etc)"
+Ediza Lake ,6-25%,0-5%,0-5%,0-5%,6-25%,Medium,120,Class 4,4,45,3,,Less than 100 feet from water
+Ediza Lake ,96-100%,51-75%,0-5%,51-75%,96-100%,High,306.25,Class 3,1,40,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Shadow Creek,0-5%,0-5%,0-5%,0-5%,0-5%,Medium,25,Class 3,0,60,3,,Less than 100 feet from water
+Ediza Lake ,51-75%,26-50%,51-75%,26-50%,51-75%,High,150,Class 2,1,10,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Shadow Lake,51-75%,0-5%,0-5%,0-5%,6-25%,Medium,100,Class 2,1,10,4,,
+Ediza Lake ,96-100%,51-75%,0-5%,51-75%,76-95%,Medium,444,Class 2,4,20,3,,Less than 100 feet from water
+Shadow Lake,76-95%,0-5%,0-5%,0-5%,76-95%,High,100,Class 3,2,65,4,,
+Shadow Lake,6-25%,6-25%,0-5%,6-25%,6-25%,High,150,Class 4,1,5,4,,
+Ediza Lake ,0-5%,0-5%,96-100%,0-5%,0-5%,Low,130,Class 2,1,1,3,,"Within Restricted area (Lake outlet, closure, etc)"
+Shadow Creek,6-25%,0-5%,0-5%,0-5%,6-25%,High,100,Class 3,2,70,3,,
+Shadow Creek,96-100%,76-95%,0-5%,76-95%,96-100%,Medium,150,Class 2,2,15,2,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Shadow Lake,6-25%,0-5%,0-5%,0-5%,6-25%,Medium,25,Class 2,1,30,4,,
+Shadow Creek,6-25%,0-5%,0-5%,0-5%,6-25%,High,20,Class 4,2,35,2,,Less than 100 feet from water
+Ediza Lake ,76-95%,0-5%,0-5%,0-5%,51-75%,Medium,120,Class 3,1,70,1,,In Meadow/ on Soft Vegetation
+Shadow Creek,6-25%,0-5%,0-5%,0-5%,6-25%,Medium,75,Class 3,2,60,2,,
+Shadow Creek,6-25%,0-5%,0-5%,0-5%,0-5%,High,70,Class 3,1,15,3,,
+Shadow Lake,51-75%,0-5%,0-5%,0-5%,26-50%,,800,Class 3,1,10,1,,
+Shadow Lake,6-25%,0-5%,0-5%,0-5%,6-25%,High,600,Class 4,2,10,1,,
+Shadow Lake,6-25%,0-5%,0-5%,0-5%,6-25%,High,200,Class 4,1,70,2,,
+Shadow Lake,6-25%,0-5%,0-5%,0-5%,6-25%,Medium,30,Class 3,1,50,2,,
+Shadow Creek,6-25%,0-5%,0-5%,0-5%,6-25%,Medium,100,Class 3,1,10,1,,"Within Restricted area (Lake outlet, closure, etc)"
+Shadow Creek,51-75%,0-5%,0-5%,0-5%,26-50%,High,96,Class 4,1,30,4,,
+Shadow Lake,6-25%,0-5%,6-25%,0-5%,6-25%,High,1000,Class 3,2,10,4,,
+Garnet Lake ,51-75%,26-50%,6-25%,26-50%,51-75%,Low,120,Class 1,2,40,1,,In Meadow/ on Soft Vegetation
+Garnet Lake ,51-75%,76-95%,0-5%,76-95%,26-50%,Low,70,Class 1,2,5,2,,Less than 100 feet from water
+Garnet Lake ,76-95%,76-95%,0-5%,76-95%,76-95%,Low,1000,Class 1,1,5,2,,Less than 100 feet from water
+Garnet Lake ,76-95%,0-5%,0-5%,0-5%,51-75%,High,684,Class 5,0,95,4,,Less than 100 feet from water
+Garnet Lake ,76-95%,26-50%,0-5%,26-50%,26-50%,Medium,45,Class 2,2,70,2,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Garnet Lake ,76-95%,6-25%,6-25%,6-25%,51-75%,Medium,120,Class 3,0,75,2,,Less than 100 feet from water
+Garnet Lake ,76-95%,26-50%,0-5%,26-50%,76-95%,Medium,144,Class 2,0,15,2,,Less than 100 feet from water
+Garnet Lake ,76-95%,0-5%,0-5%,0-5%,76-95%,High,224,Class 4,0,95,3,,Less than 100 feet from water
+Garnet Lake ,76-95%,26-50%,0-5%,26-50%,76-95%,Low,112,Class 3,0,50,4,,Less than 100 feet from water
+Garnet Lake ,0-5%,0-5%,96-100%,0-5%,0-5%,High,108,Rock (R),0,2,3,,Less than 100 feet from water
+Garnet Lake ,26-50%,0-5%,76-95%,0-5%,6-25%,High,196,Rock (R),0,15,3,,Less than 100 feet from water
+Garnet Lake ,6-25%,0-5%,51-75%,0-5%,0-5%,High,80,Rock (R),0,45,3,,Less than 100 feet from water
+Garnet Lake ,76-95%,6-25%,0-5%,6-25%,76-95%,High,414,Class 4,0,75,2,,Less than 100 feet from water
+Garnet Lake ,51-75%,6-25%,6-25%,26-50%,51-75%,High,528,Class 4,0,80,3,,Less than 100 feet from water
+Garnet Lake ,76-95%,6-25%,6-25%,6-25%,51-75%,Medium,200,Class 3,0,50,2,,Less than 100 feet from water
+Garnet Lake ,76-95%,6-25%,0-5%,6-25%,51-75%,High,140,Class 3,0,80,2,,Less than 100 feet from water
+Garnet Lake ,76-95%,6-25%,6-25%,6-25%,51-75%,High,784,Class 4,0,60,3,,Less than 100 feet from water
+Garnet Lake ,6-25%,0-5%,0-5%,0-5%,6-25%,Medium,20,Class 3,0,85,4,,Less than 100 feet from water
+Garnet Lake ,26-50%,0-5%,6-25%,0-5%,26-50%,Medium,150,Class 3,1,85,2,,Less than 100 feet from water
+Garnet Lake ,26-50%,6-25%,6-25%,6-25%,26-50%,Medium,70,Class 2,0,50,3,,Less than 100 feet from water
+Garnet Lake ,6-25%,0-5%,26-50%,0-5%,6-25%,Medium,30,Class 3,0,30,4,,Less than 100 feet from water
+Garnet Lake ,26-50%,0-5%,6-25%,0-5%,26-50%,High,180,Class 4,1,85,4,,Less than 100 feet from water
+Garnet Lake ,6-25%,0-5%,0-5%,0-5%,6-25%,,200,Class 4,0,100,1,,Less than 100 feet from water
+Garnet Lake ,6-25%,0-5%,0-5%,0-5%,6-25%,High,45,Class 4,0,90,3,,Less than 100 feet from water
+Garnet Lake ,76-95%,26-50%,6-25%,26-50%,76-95%,Medium,192,Class 3,1,45,3,,Less than 100 feet from water
+Garnet Lake ,76-95%,26-50%,0-5%,26-50%,76-95%,Medium,560,Class 3,1,40,2,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Garnet Lake ,26-50%,0-5%,0-5%,0-5%,26-50%,Medium,160,Class 3,0,70,1,,Less than 100 feet from trail 
+Garnet Lake ,76-95%,0-5%,0-5%,0-5%,26-50%,High,60,Class 4,3,90,1,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Within Restricted area (Lake outlet, closure, etc)"
+Garnet Lake ,76-95%,6-25%,0-5%,6-25%,76-95%,Medium,100,Class 3,3,90,3,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Within Restricted area (Lake outlet, closure, etc)"
+Garnet Lake ,51-75%,6-25%,0-5%,6-25%,51-75%,Low,20,Class 3,1,80,4,,Less than 100 feet from water
+Garnet Lake ,51-75%,6-25%,6-25%,6-25%,51-75%,Medium,70,Class 3,0,60,2,,Less than 100 feet from water
+Garnet Lake ,51-75%,0-5%,6-25%,0-5%,51-75%,High,96,Class 4,0,95,4,,Less than 100 feet from water
+Garnet Lake ,51-75%,6-25%,6-25%,6-25%,51-75%,Medium,550,Class 2,0,35,4,,Less than 100 feet from water
+Garnet Lake ,76-95%,6-25%,26-50%,6-25%,76-95%,Low,50,Class 2,0,50,2,,Less than 100 feet from water
+Garnet Lake ,96-100%,6-25%,6-25%,6-25%,96-100%,Medium,420,Class 3,0,70,2,,Less than 100 feet from water
+Garnet Lake ,76-95%,6-25%,6-25%,6-25%,76-95%,Medium,200,Class 3,1,70,4,,Less than 100 feet from water
+Garnet Lake ,0-5%,0-5%,0-5%,0-5%,0-5%,High,85,Class 4,3,100,4,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Garnet Lake ,51-75%,0-5%,0-5%,0-5%,51-75%,High,80,Class 3,0,85,4,,Less than 100 feet from water
+Garnet Lake ,51-75%,0-5%,0-5%,0-5%,51-75%,Medium,60,Class 4,0,95,2,,Less than 100 feet from water
+Garnet Lake ,51-75%,6-25%,6-25%,6-25%,51-75%,Low,1000,Class 3,0,45,3,,Less than 100 feet from trail 
+Garnet Lake ,51-75%,0-5%,6-25%,0-5%,51-75%,High,120,Class 4,0,90,3,,Less than 100 feet from water
+Garnet Lake ,76-95%,6-25%,26-50%,6-25%,76-95%,Medium,930,Class 3,0,50,2,,Less than 100 feet from water
+Garnet Lake ,6-25%,0-5%,0-5%,0-5%,6-25%,High,60,Class 4,0,100,3,,Less than 100 feet from water
+Garnet Lake ,26-50%,0-5%,6-25%,0-5%,6-25%,High,72,Class 4,0,70,2,,Less than 100 feet from water
+Garnet Lake ,26-50%,0-5%,6-25%,0-5%,26-50%,High,200,Class 4,3,80,2,,"Less than 100 feet from water, Less than 100 feet from trail "
+Garnet Lake ,76-95%,0-5%,0-5%,0-5%,51-75%,High,100,Class 5,2,95,2,,"Less than 100 feet from water, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Garnet Lake ,76-95%,0-5%,6-25%,0-5%,76-95%,High,432,Class 3,1,75,2,,Less than 100 feet from water
+Garnet Lake ,0-5%,0-5%,0-5%,0-5%,0-5%,Medium,60,Class 2,1,25,2,,Less than 100 feet from water
+Garnet Lake ,51-75%,6-25%,6-25%,6-25%,51-75%,Medium,200,Class 3,1,60,2,,Less than 100 feet from water
+Garnet Lake ,96-100%,6-25%,0-5%,6-25%,96-100%,High,360,Class 4,0,75,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Garnet Lake ,51-75%,0-5%,0-5%,0-5%,51-75%,,80,Class 4,1,90,1,,Less than 100 feet from trail 
+Garnet Lake ,51-75%,6-25%,6-25%,6-25%,51-75%,Medium,80,Class 2,1,20,1,,Less than 100 feet from trail 
+Garnet Lake ,51-75%,0-5%,6-25%,0-5%,51-75%,Medium,48,Class 2,1,30,1,,"Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Garnet Lake ,96-100%,51-75%,0-5%,51-75%,96-100%,Medium,120,Class 3,0,40,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Within Restricted area (Lake outlet, closure, etc)"
+Garnet Lake ,76-95%,51-75%,0-5%,51-75%,76-95%,Medium,2520,Class 2,1,30,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Garnet Lake ,76-95%,0-5%,0-5%,0-5%,76-95%,High,1200,Class 5,0,95,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Garnet Lake ,76-95%,26-50%,0-5%,6-25%,76-95%,Medium,144,Class 3,0,60,2,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Garnet Lake ,51-75%,0-5%,6-25%,0-5%,51-75%,Medium,25,Class 3,1,60,1,,"Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Garnet Lake ,76-95%,0-5%,0-5%,0-5%,51-75%,High,40,Class 3,1,85,1,,Less than 100 feet from trail 
+Garnet Lake ,96-100%,51-75%,0-5%,51-75%,96-100%,Medium,600,Class 3,2,15,3,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Garnet Lake ,51-75%,0-5%,6-25%,0-5%,51-75%,High,800,Class 4,1,80,4,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Garnet Lake ,76-95%,51-75%,0-5%,51-75%,76-95%,Low,100,Class 2,2,20,2,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Garnet Lake ,6-25%,0-5%,0-5%,0-5%,6-25%,High,80,Class 3,0,95,1,,"Within Restricted area (Lake outlet, closure, etc)"
+Garnet Lake ,76-95%,6-25%,51-75%,6-25%,76-95%,Medium,100,Class 2,0,10,1,,"Within Restricted area (Lake outlet, closure, etc)"
+Garnet Lake ,51-75%,0-5%,0-5%,0-5%,51-75%,Medium,60,Class 3,1,80,1,,Less than 100 feet from trail 
+Garnet Lake ,76-95%,0-5%,0-5%,0-5%,76-95%,High,30,Class 4,1,95,3,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Garnet Lake ,76-95%,6-25%,6-25%,6-25%,76-95%,High,160,Class 4,1,80,2,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Thousand Island Lake,26-50%,0-5%,0-5%,0-5%,6-25%,High,154,Class 4,0,95,3,,"Less than 100 feet from water, Less than 100 feet from trail "
+Garnet Lake ,96-100%,6-25%,51-75%,6-25%,76-95%,Medium,100,Class 2,1,10,2,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Garnet Lake ,76-95%,26-50%,6-25%,26-50%,76-95%,Low,50,Class 3,0,50,1,,"Within Restricted area (Lake outlet, closure, etc)"
+Garnet Lake ,26-50%,0-5%,0-5%,0-5%,26-50%,,25,Class 2,1,15,3,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Garnet Lake ,96-100%,0-5%,0-5%,0-5%,76-95%,Medium,80,Class 3,1,75,4,,"Less than 100 feet from water, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Garnet Lake ,76-95%,0-5%,0-5%,0-5%,76-95%,High,508,Class 5,1,95,2,,Less than 100 feet from water
+Garnet Lake ,51-75%,0-5%,6-25%,0-5%,51-75%,Low,30,Class 2,1,5,4,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Garnet Lake ,6-25%,6-25%,26-50%,6-25%,6-25%,Low,250,Class 1,1,0,4,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,51-75%,0-5%,6-25%,0-5%,51-75%,High,120,Class 4,0,90,4,,"Less than 100 feet from water, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Garnet Lake ,76-95%,6-25%,6-25%,6-25%,76-95%,Medium,40,Class 4,1,80,4,,Less than 100 feet from water
+Thousand Island Lake,51-75%,6-25%,0-5%,0-5%,51-75%,Medium,400,Class 3,0,40,2,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Less than 100 feet from trail "
+Thousand Island Lake,96-100%,76-95%,0-5%,76-95%,96-100%,Low,100,Class 2,1,10,4,,Less than 100 feet from water
+Thousand Island Lake,76-95%,0-5%,0-5%,0-5%,76-95%,Medium,128,Class 4,0,95,2,,Less than 100 feet from water
+Thousand Island Lake,76-95%,6-25%,6-25%,6-25%,76-95%,Medium,400,Class 3,0,10,4,,Less than 100 feet from water
+Thousand Island Lake,96-100%,76-95%,0-5%,76-95%,96-100%,Low,50,Class 1,0,20,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Thousand Island Lake,6-25%,0-5%,6-25%,0-5%,6-25%,Medium,700,Class 3,0,40,3,,"Less than 100 feet from water, Less than 100 feet from trail "
+Thousand Island Lake,51-75%,6-25%,0-5%,0-5%,6-25%,Low,1440,Class 4,0,90,1,,Less than 100 feet from trail 
+Thousand Island Lake,6-25%,0-5%,0-5%,0-5%,6-25%,Medium,30,Class 3,0,70,1,,Less than 100 feet from trail 
+Thousand Island Lake,76-95%,26-50%,0-5%,26-50%,76-95%,Low,180,Class 3,0,35,1,,In Meadow/ on Soft Vegetation
+Garnet Lake ,51-75%,6-25%,6-25%,6-25%,26-50%,Medium,285,Class 2,1,40,3,,Less than 100 feet from water
+Garnet Lake ,76-95%,0-5%,6-25%,0-5%,76-95%,Medium,50,Class 4,1,80,4,,Less than 100 feet from water
+Garnet Lake ,76-95%,0-5%,0-5%,0-5%,76-95%,High,150,Class 5,3,95,3,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,51-75%,0-5%,0-5%,0-5%,6-25%,High,96,Class 4,0,90,1,,Less than 100 feet from trail 
+Garnet Lake ,76-95%,26-50%,6-25%,26-50%,51-75%,Medium,320,Class 3,0,50,3,,Less than 100 feet from water
+Thousand Island Lake,76-95%,0-5%,0-5%,0-5%,76-95%,,400,Class 4,1,95,3,,Less than 100 feet from water
+Garnet Lake ,76-95%,0-5%,0-5%,0-5%,76-95%,High,72,Class 4,2,95,3,,Less than 100 feet from water
+Garnet Lake ,76-95%,0-5%,0-5%,0-5%,76-95%,,250,Class 4,1,90,4,,Less than 100 feet from water
+Garnet Lake ,76-95%,26-50%,0-5%,26-50%,76-95%,Low,125,Class 2,2,60,3,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Garnet Lake ,76-95%,0-5%,6-25%,0-5%,76-95%,High,180,Class 4,1,90,4,,"Less than 100 feet from water, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Garnet Lake ,76-95%,0-5%,0-5%,0-5%,76-95%,High,50,Class 4,1,95,3,,Less than 100 feet from water
+Garnet Lake ,51-75%,6-25%,26-50%,6-25%,26-50%,Low,64,Class 2,0,10,4,,Less than 100 feet from water
+Garnet Lake ,76-95%,0-5%,0-5%,0-5%,76-95%,High,80,Class 4,2,95,2,,Less than 100 feet from water
+Garnet Lake ,76-95%,0-5%,6-25%,0-5%,76-95%,High,500,Class 4,0,75,4,,"Less than 100 feet from water, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Garnet Lake ,26-50%,0-5%,26-50%,0-5%,26-50%,Medium,150,Class 4,0,15,4,,"Less than 100 feet from water, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Garnet Lake ,26-50%,0-5%,6-25%,0-5%,26-50%,Medium,45,Class 2,0,65,3,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,76-95%,6-25%,0-5%,6-25%,76-95%,Medium,40,Class 3,1,60,4,,Less than 100 feet from water
+Garnet Lake ,51-75%,0-5%,0-5%,0-5%,51-75%,High,80,Class 4,0,90,3,,Less than 100 feet from water
+Garnet Lake ,6-25%,0-5%,26-50%,0-5%,6-25%,Low,100,Class 2,0,15,3,,Less than 100 feet from water
+Garnet Lake ,76-95%,51-75%,6-25%,51-75%,76-95%,Low,216,Class 1,2,20,3,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Garnet Lake ,51-75%,0-5%,51-75%,0-5%,51-75%,Medium,60,Class 3,0,10,4,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,26-50%,0-5%,0-5%,0-5%,26-50%,Medium,40,Class 3,1,85,3,,Less than 100 feet from water
+Garnet Lake ,51-75%,6-25%,0-5%,6-25%,51-75%,High,96,Class 4,0,85,1,,Less than 100 feet from trail 
+Garnet Lake ,51-75%,0-5%,0-5%,0-5%,51-75%,Medium,25,Class 3,2,65,3,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,76-95%,6-25%,6-25%,6-25%,76-95%,Medium,280,Class 3,0,85,2,,Less than 100 feet from water
+Garnet Lake ,76-95%,6-25%,26-50%,6-25%,76-95%,Low,100,Class 3,0,40,3,,Less than 100 feet from water
+Garnet Lake ,26-50%,0-5%,6-25%,0-5%,26-50%,Medium,150,Class 3,0,60,3,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Garnet Lake ,76-95%,26-50%,0-5%,26-50%,51-75%,Low,96,Class 2,0,5,3,,Less than 100 feet from water
+Thousand Island Lake,76-95%,6-25%,0-5%,6-25%,76-95%,Medium,230,Class 3,1,75,4,,Less than 100 feet from water
+Garnet Lake ,26-50%,6-25%,6-25%,6-25%,26-50%,Medium,100,Class 3,0,65,2,,Less than 100 feet from water
+Garnet Lake ,51-75%,6-25%,6-25%,6-25%,51-75%,Low,60,Class 2,1,50,4,,Less than 100 feet from water
+Thousand Island Lake,76-95%,26-50%,0-5%,26-50%,76-95%,Medium,60,Class 3,0,45,2,,Less than 100 feet from water
+Thousand Island Lake,51-75%,26-50%,6-25%,26-50%,76-95%,Medium,400,Class 2,1,60,2,,"Less than 100 feet from water, Less than 100 feet from trail "
+Thousand Island Lake,51-75%,0-5%,0-5%,0-5%,26-50%,High,60,Class 5,1,100,4,,Less than 100 feet from water
+Thousand Island Lake,76-95%,0-5%,0-5%,0-5%,76-95%,Medium,30,Class 3,1,95,2,,Less than 100 feet from water
+Thousand Island Lake,76-95%,0-5%,26-50%,0-5%,76-95%,Low,60,Class 3,0,15,4,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,6-25%,0-5%,76-95%,0-5%,6-25%,Medium,75,Class 2,1,20,4,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,51-75%,6-25%,6-25%,6-25%,51-75%,,300,Class 4,1,90,4,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,76-95%,6-25%,6-25%,6-25%,76-95%,Low,240,Class 3,0,50,1,,"In Meadow/ on Soft Vegetation, Less than 100 feet from trail "
+Thousand Island Lake,51-75%,0-5%,51-75%,0-5%,51-75%,Medium,45,Class 3,0,50,1,,Less than 100 feet from water
+Thousand Island Lake,76-95%,0-5%,0-5%,0-5%,51-75%,Medium,80,Class 3,0,90,2,,Less than 100 feet from water
+Thousand Island Lake,76-95%,0-5%,6-25%,0-5%,76-95%,High,25,Class 3,0,85,1,,Less than 100 feet from trail 
+Thousand Island Lake,76-95%,6-25%,0-5%,6-25%,76-95%,Medium,132,Class 3,1,70,4,,Less than 100 feet from water
+Thousand Island Lake,76-95%,6-25%,0-5%,6-25%,76-95%,Low,50,Class 2,0,65,1,,"In Meadow/ on Soft Vegetation, Less than 100 feet from trail "
+Thousand Island Lake,26-50%,6-25%,0-5%,26-50%,76-95%,Medium,400,Class 3,0,65,4,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,51-75%,0-5%,6-25%,0-5%,51-75%,High,112,Class 3,0,80,2,,"Less than 100 feet from water, Less than 100 feet from trail "
+Thousand Island Lake,76-95%,0-5%,6-25%,0-5%,51-75%,High,172,Class 5,0,90,4,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,26-50%,0-5%,26-50%,0-5%,26-50%,Medium,105,Class 4,0,95,1,,Less than 100 feet from trail 
+Thousand Island Lake,76-95%,0-5%,76-95%,0-5%,76-95%,Medium,110,Class 2,1,10,3,,Less than 100 feet from water
+Thousand Island Lake,6-25%,0-5%,76-95%,0-5%,6-25%,Low,20,Class 2,0,20,4,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,76-95%,0-5%,0-5%,0-5%,76-95%,High,30,Class 4,0,100,1,,Less than 100 feet from trail 
+Thousand Island Lake,76-95%,0-5%,0-5%,0-5%,76-95%,Medium,130,Class 3,0,70,4,,"Less than 100 feet from water, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,76-95%,6-25%,0-5%,6-25%,76-95%,High,50,Class 3,3,90,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Thousand Island Lake,6-25%,0-5%,0-5%,0-5%,6-25%,Low,30,Class 3,0,100,4,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,76-95%,51-75%,0-5%,51-75%,76-95%,Low,64,Class 1,1,5,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Thousand Island Lake,76-95%,0-5%,6-25%,0-5%,76-95%,Medium,128,Class 3,0,40,4,,"Less than 100 feet from water, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,76-95%,0-5%,6-25%,0-5%,76-95%,Medium,128,Class 3,0,40,4,,"Less than 100 feet from water, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,6-25%,6-25%,6-25%,6-25%,6-25%,Low,25,Class 3,0,90,4,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,96-100%,6-25%,0-5%,6-25%,96-100%,Medium,80,Class 3,2,65,3,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Thousand Island Lake,96-100%,26-50%,0-5%,26-50%,96-100%,Low,100,Class 3,1,50,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Thousand Island Lake,96-100%,26-50%,6-25%,26-50%,96-100%,Low,320,Class 2,0,40,1,,"In Meadow/ on Soft Vegetation, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,51-75%,6-25%,6-25%,6-25%,51-75%,Low,320,Class 2,0,10,2,,Less than 100 feet from water
+Thousand Island Lake,26-50%,0-5%,6-25%,0-5%,26-50%,Medium,30,Class 3,0,85,4,,Less than 100 feet from water
+Thousand Island Lake,76-95%,0-5%,26-50%,0-5%,51-75%,High,144,Class 4,2,90,1,,Less than 100 feet from trail 
+Thousand Island Lake,76-95%,0-5%,0-5%,0-5%,76-95%,High,25,Class 4,1,100,4,,Less than 100 feet from water
+Thousand Island Lake,76-95%,26-50%,26-50%,26-50%,51-75%,Medium,358,Class 3,2,30,4,,Less than 100 feet from water
+Thousand Island Lake,76-95%,51-75%,26-50%,51-75%,76-95%,Low,800,Class 2,0,50,3,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,26-50%,0-5%,0-5%,0-5%,26-50%,High,35,Class 3,1,95,2,,"Less than 100 feet from water, Less than 100 feet from trail "
+Thousand Island Lake,76-95%,26-50%,0-5%,26-50%,51-75%,Medium,320,Class 3,1,45,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,76-95%,0-5%,6-25%,0-5%,76-95%,Low,60,Class 3,0,80,4,,Less than 100 feet from water
+Thousand Island Lake,76-95%,51-75%,0-5%,26-50%,76-95%,Medium,140,Class 3,1,30,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Thousand Island Lake,76-95%,6-25%,6-25%,6-25%,76-95%,Low,180,Class 3,0,60,3,,"Less than 100 feet from water, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,51-75%,6-25%,51-75%,6-25%,51-75%,Medium,1000,Class 3,0,40,4,,Less than 100 feet from water
+Thousand Island Lake,51-75%,51-75%,0-5%,26-50%,51-75%,Low,35,Class 1,1,5,4,,Less than 100 feet from water
+Thousand Island Lake,6-25%,0-5%,6-25%,0-5%,6-25%,Medium,48,Class 2,0,45,4,,"Less than 100 feet from water, Less than 100 feet from trail "
+Thousand Island Lake,76-95%,6-25%,0-5%,6-25%,76-95%,Low,300,Class 2,2,60,3,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Thousand Island Lake,76-95%,0-5%,0-5%,0-5%,51-75%,Low,112,Class 5,0,95,3,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,76-95%,6-25%,0-5%,6-25%,76-95%,Medium,200,Class 3,0,50,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Less than 100 feet from trail "
+Thousand Island Lake,51-75%,0-5%,6-25%,0-5%,51-75%,High,40,Class 3,1,90,4,,Less than 100 feet from water
+Thousand Island Lake,6-25%,0-5%,0-5%,0-5%,6-25%,Low,35,Class 3,0,60,2,,Less than 100 feet from water
+Thousand Island Lake,51-75%,6-25%,0-5%,6-25%,51-75%,Medium,160,Class 3,2,60,1,,Less than 100 feet from trail 
+Thousand Island Lake,51-75%,0-5%,6-25%,0-5%,51-75%,High,580,Class 4,0,90,2,,Less than 100 feet from water
+Thousand Island Lake,76-95%,51-75%,0-5%,51-75%,76-95%,Low,420,Class 2,1,20,2,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Less than 100 feet from trail "
+Thousand Island Lake,76-95%,76-95%,0-5%,76-95%,76-95%,Low,144,Class 1,0,10,2,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,51-75%,0-5%,6-25%,0-5%,51-75%,Medium,30,Class 3,0,70,2,,Less than 100 feet from water
+Thousand Island Lake,51-75%,0-5%,6-25%,0-5%,51-75%,High,100,Class 4,1,90,4,,Less than 100 feet from water
+Thousand Island Lake,96-100%,76-95%,0-5%,76-95%,96-100%,Low,500,Class 1,0,10,3,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Less than 100 feet from trail "
+Thousand Island Lake,51-75%,0-5%,0-5%,0-5%,51-75%,Medium,30,Class 3,0,85,2,,"Less than 100 feet from water, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,26-50%,0-5%,6-25%,0-5%,26-50%,High,100,Class 4,0,100,1,,Less than 100 feet from trail 
+Thousand Island Lake,76-95%,6-25%,0-5%,6-25%,76-95%,Medium,152,Class 4,1,80,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Thousand Island Lake,76-95%,6-25%,6-25%,6-25%,76-95%,Medium,550,Class 3,1,65,1,,Less than 100 feet from trail 
+Thousand Island Lake,51-75%,0-5%,6-25%,0-5%,51-75%,High,560,Class 5,2,85,1,,Less than 100 feet from trail 
+Thousand Island Lake,6-25%,0-5%,51-75%,0-5%,6-25%,Medium,190,Class 2,0,40,4,,"Less than 100 feet from water, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,51-75%,0-5%,6-25%,0-5%,51-75%,Medium,40,Class 3,0,70,4,,Less than 100 feet from water
+Thousand Island Lake,76-95%,6-25%,6-25%,6-25%,76-95%,Low,250,Class 2,0,60,4,,"Less than 100 feet from water, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,51-75%,0-5%,0-5%,0-5%,51-75%,High,200,Class 4,0,95,1,,Less than 100 feet from trail 
+Thousand Island Lake,76-95%,51-75%,26-50%,51-75%,76-95%,Medium,240,Class 2,0,10,4,,"Less than 100 feet from water, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,26-50%,0-5%,6-25%,0-5%,26-50%,High,36,Class 3,0,80,2,,"Less than 100 feet from water, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,51-75%,6-25%,6-25%,0-5%,51-75%,High,1063,Class 4,0,60,1,,Less than 100 feet from trail 
+Thousand Island Lake,76-95%,0-5%,6-25%,0-5%,76-95%,High,160,Class 5,1,95,4,,"Less than 100 feet from water, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,0-5%,0-5%,96-100%,0-5%,0-5%,Low,40,Rock (R),0,10,4,,Less than 100 feet from water
+Thousand Island Lake,51-75%,6-25%,6-25%,6-25%,51-75%,High,300,Class 4,1,90,1,,"Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,96-100%,76-95%,0-5%,76-95%,96-100%,Low,720,Class 2,0,10,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,51-75%,0-5%,0-5%,0-5%,51-75%,,70,Class 4,2,100,1,,Less than 100 feet from trail 
+Island Pass,76-95%,6-25%,6-25%,6-25%,76-95%,Medium,450,Class 3,0,60,1,,Less than 100 feet from trail 
+Thousand Island Lake,6-25%,0-5%,26-50%,0-5%,6-25%,Medium,40,Class 3,1,50,1,,"Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,51-75%,6-25%,0-5%,6-25%,51-75%,Medium,136,Class 3,0,75,1,,"Within Restricted area (Lake outlet, closure, etc)"
+Island Pass,76-95%,0-5%,0-5%,0-5%,51-75%,Medium,384,Class 3,10,92,1,,Less than 100 feet from trail 
+Thousand Island Lake,96-100%,26-50%,0-5%,26-50%,96-100%,Medium,150,Class 2,0,10,3,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Thousand Island Lake,76-95%,26-50%,0-5%,26-50%,51-75%,Medium,300,Class 3,1,70,4,,"Less than 100 feet from water, Less than 100 feet from trail "
+Thousand Island Lake,76-95%,6-25%,0-5%,6-25%,76-95%,Medium,70,Class 3,0,70,1,,Less than 100 feet from trail 
+Thousand Island Lake,26-50%,0-5%,26-50%,0-5%,26-50%,Low,60,Class 1,0,30,2,,"Less than 100 feet from water, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Island Pass,76-95%,26-50%,0-5%,26-50%,51-75%,Medium,224,Class 3,1,60,4,,"Less than 100 feet from water, Less than 100 feet from trail "
+Island Pass,76-95%,6-25%,6-25%,6-25%,96-100%,High,72,Class 4,0,90,3,,"Less than 100 feet from water, Less than 100 feet from trail "
+Island Pass,26-50%,0-5%,0-5%,0-5%,26-50%,Medium,140,Class 3,0,40,1,,Less than 100 feet from trail 
+Thousand Island Lake,26-50%,0-5%,51-75%,0-5%,26-50%,,100,Class 3,0,40,2,,"Less than 100 feet from water, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Davis Lake Region,76-95%,26-50%,0-5%,6-25%,76-95%,Medium,400,Class 3,0,50,2,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Island Pass,96-100%,6-25%,0-5%,6-25%,96-100%,Medium,100,Class 3,1,60,4,,Less than 100 feet from water
+Island Pass,51-75%,0-5%,0-5%,0-5%,26-50%,High,168,Class 4,0,95,1,,Less than 100 feet from trail 
+Island Pass,26-50%,0-5%,0-5%,0-5%,26-50%,Medium,80,Class 3,0,40,1,,Less than 100 feet from trail 
+Island Pass,26-50%,0-5%,0-5%,0-5%,26-50%,Medium,50,Class 3,0,90,2,,"Less than 100 feet from water, Less than 100 feet from trail "
+Island Pass,51-75%,0-5%,0-5%,0-5%,51-75%,Medium,96,Class 3,1,30,1,,Less than 100 feet from trail 
+Island Pass,26-50%,6-25%,0-5%,6-25%,26-50%,Low,200,Class 2,0,35,1,,Less than 100 feet from trail 
+Island Pass,51-75%,0-5%,0-5%,0-5%,51-75%,High,50,Class 3,0,95,1,,Less than 100 feet from trail 
+Island Pass,76-95%,0-5%,6-25%,0-5%,51-75%,Low,120,Class 2,1,15,1,,Less than 100 feet from trail 
+Island Pass,51-75%,0-5%,0-5%,0-5%,51-75%,Low,150,Class 2,1,5,1,,Less than 100 feet from trail 
+Island Pass,76-95%,0-5%,6-25%,0-5%,76-95%,Medium,150,Class 4,2,70,1,,Less than 100 feet from trail 
+Marie Lakes Region,6-25%,0-5%,0-5%,0-5%,6-25%,Medium,40,Class 3,0,95,4,,Less than 100 feet from water
+Marie Lakes Region,76-95%,76-95%,0-5%,76-95%,76-95%,Low,112,Class 2,0,20,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation"
+Rush Creek,96-100%,6-25%,0-5%,6-25%,96-100%,Low,150,Class 2,1,40,4,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Less than 100 feet from trail "
+Marie Lakes Region,6-25%,0-5%,0-5%,0-5%,6-25%,Low,30,Class 3,0,90,3,,Less than 100 feet from water
+Rush Creek,6-25%,0-5%,0-5%,0-5%,6-25%,Medium,60,Class 2,0,10,3,,Less than 100 feet from water
+Rush Creek,76-95%,26-50%,0-5%,26-50%,76-95%,Low,192,Class 2,0,0,3,,Less than 100 feet from water
+Rush Creek,76-95%,6-25%,0-5%,6-25%,76-95%,Low,300,Class 2,1,5,3,,"Less than 100 feet from water, Less than 100 feet from trail "
+Rush Creek,96-100%,6-25%,0-5%,6-25%,96-100%,Low,500,Class 2,1,5,1,,In Meadow/ on Soft Vegetation
+Rush Creek,6-25%,0-5%,0-5%,0-5%,6-25%,High,35,Class 4,0,90,1,,Less than 100 feet from trail 
+Rush Creek,26-50%,0-5%,0-5%,0-5%,26-50%,Low,60,Class 3,0,65,4,,"Less than 100 feet from water, Less than 100 feet from trail "
+Rush Creek,26-50%,0-5%,6-25%,0-5%,26-50%,High,72,Class 2,0,20,1,,Less than 100 feet from trail 
+Thousand Island Lake,26-50%,0-5%,6-25%,0-5%,26-50%,Low,96,Class 4,0,95,4,,"Less than 100 feet from water, Within Restricted area (Lake outlet, closure, etc)"
+Rush Creek,51-75%,0-5%,6-25%,0-5%,51-75%,High,36,Class 3,0,40,1,,Less than 100 feet from trail 
+Rush Creek,51-75%,0-5%,0-5%,0-5%,26-50%,High,221,Class 4,1,96,1,,Less than 100 feet from trail 
+Rush Creek,51-75%,6-25%,6-25%,6-25%,51-75%,Medium,60,Class 3,0,70,1,,Less than 100 feet from trail 
+Rush Creek,51-75%,0-5%,0-5%,0-5%,51-75%,High,50,Class 4,0,100,1,,Less than 100 feet from trail 
+Rush Creek,26-50%,0-5%,0-5%,0-5%,26-50%,Medium,150,Class 3,0,20,3,,"Less than 100 feet from water, Less than 100 feet from trail "
+Rush Creek,6-25%,0-5%,0-5%,0-5%,6-25%,High,120,Class 4,0,95,3,,"Less than 100 feet from water, Less than 100 feet from trail "
+Marie Lakes Region,76-95%,0-5%,0-5%,0-5%,76-95%,Medium,300,Class 4,0,95,4,,Less than 100 feet from water
+Rush Creek,76-95%,0-5%,0-5%,0-5%,76-95%,High,250,Class 5,0,95,2,,"Less than 100 feet from water, Less than 100 feet from trail "
+Marie Lakes Region,51-75%,6-25%,6-25%,6-25%,51-75%,Low,60,Class 2,0,15,3,,Less than 100 feet from water
+Rush Creek,76-95%,0-5%,6-25%,0-5%,51-75%,Low,780,Class 2,3,10,4,,Less than 100 feet from water
+Rush Creek,6-25%,0-5%,6-25%,0-5%,6-25%,Medium,180,Class 2,0,0,1,,Less than 100 feet from trail 
+Marie Lakes Region,0-5%,0-5%,96-100%,0-5%,0-5%,Low,60,Rock (R),0,10,2,,Less than 100 feet from water
+Marie Lakes Region,51-75%,0-5%,6-25%,0-5%,51-75%,High,400,Class 4,0,95,3,,Less than 100 feet from water
+Donahue Pass Basin,76-95%,6-25%,0-5%,6-25%,76-95%,Low,100,Class 3,0,75,2,,"Less than 100 feet from water, Less than 100 feet from trail "
+Donahue Pass Basin,26-50%,0-5%,6-25%,0-5%,6-25%,High,100,Class 4,0,90,3,,Less than 100 feet from water
+Donahue Pass Basin,26-50%,0-5%,6-25%,0-5%,26-50%,Low,120,Class 4,0,85,3,,Less than 100 feet from water
+Donahue Pass Basin,76-95%,0-5%,6-25%,0-5%,76-95%,High,72,Class 3,0,30,2,,"Less than 100 feet from water, In Meadow/ on Soft Vegetation, Less than 100 feet from trail "
+Donahue Pass Basin,76-95%,0-5%,0-5%,0-5%,76-95%,Medium,84,Class 4,0,95,1,,Less than 100 feet from trail 
+Donahue Pass Basin,76-95%,0-5%,6-25%,0-5%,76-95%,High,80,Class 3,0,60,4,,"Less than 100 feet from water, Less than 100 feet from trail "
+Donahue Pass Basin,26-50%,0-5%,6-25%,0-5%,26-50%,Medium,48,Class 2,0,20,1,,Less than 100 feet from trail 
+Thousand Island Lake,51-75%,0-5%,6-25%,0-5%,51-75%,Medium,30,Class 2,0,40,4,,"Less than 100 feet from water, Less than 100 feet from trail , Within Restricted area (Lake outlet, closure, etc)"
+Donahue Pass Basin,6-25%,0-5%,51-75%,0-5%,6-25%,Low,48,Class 2,0,5,1,,Less than 100 feet from trail 
+Donahue Pass Basin,26-50%,0-5%,51-75%,0-5%,6-25%,Medium,40,Class 2,0,10,1,,Less than 100 feet from trail 
+Donahue Pass Basin,76-95%,6-25%,6-25%,6-25%,76-95%,Medium,50,Class 3,0,70,2,,Less than 100 feet from water
+Donahue Pass Basin,51-75%,6-25%,51-75%,0-5%,6-25%,Low,60,Class 2,0,10,2,,Less than 100 feet from water

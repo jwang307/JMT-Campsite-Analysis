@@ -54,8 +54,8 @@ def area_to_class(area: float):
 
 def codify_data(in_path, out_path, scaled_path, output_dir) -> tuple:
     with open(in_path, 'r') as csvfile:
-        with open(out_path, 'w') as writefile:
-            with open(scaled_path, 'w') as writescaled:
+        with open(os.path.join(output_dir, out_path), 'w') as writefile:
+            with open(os.path.join(output_dir, scaled_path), 'w') as writescaled:
                 reader = csv.DictReader(csvfile)
                 features = ["vegetation_diff", "grass_diff", "area", "condition_class", "exposed_soil", "dist_water",
                             "composite_score"]
