@@ -6,9 +6,9 @@ import numpy as np
 
 def plot_clusters(campsite_data, labels):
     '''
-
-    :param campsite_data:
-    :param labels:
+    plot pca plots of campsite data by score
+    :param campsite_data: campsite data
+    :param labels: label to color by (score or cluster)
     :return:
     '''
     pca_test = PCA(n_components=len(campsite_data[0]))
@@ -42,10 +42,10 @@ def plot_clusters(campsite_data, labels):
 
 def plot_tsne(campsite_data, scores, clusters):
     '''
-
-    :param campsite_data:
-    :param scores:
-    :param clusters:
+    plot tsne visualizations of campsite data colored by cluster
+    :param campsite_data: campsite data
+    :param scores: composite score label
+    :param clusters: cluster id label
     :return:
     '''
     tsne = TSNE()

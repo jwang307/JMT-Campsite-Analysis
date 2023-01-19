@@ -1,4 +1,5 @@
 import os.path
+from sklearn.model_selection import train_test_split
 
 import preprocess
 import clustering
@@ -23,6 +24,9 @@ if __name__ == "__main__":
     # write encoded data and return scaled data along with calculated campsite scores
     scaled_data, scores = preprocess.preprocessed(csv_path, annotated_path, scaled_path, results_dir, features)
 
+    # split train and test data
+    X_train, X_test, y_train, y_test = train_test_split(scaled_data, scores, test_size=0.4)
+
     # clustering
     best_k = clustering.find_best_k(scaled_data, max_clusters)
     print(best_k)
@@ -31,6 +35,11 @@ if __name__ == "__main__":
     # plot dim reduction
     pca, components = plotting.plot_clusters(scaled_data, scores)
     tsne_score, tsne_cluster = plotting.plot_tsne(scaled_data, scores, clusters.labels_)
+
+    # logistic regression
+    model = logreg.train_logreg(X_train, y_train)
+    logreg.test_logreg(model, X_test, y_test)
+
 
     result_file = 'result_{}.csv'
 

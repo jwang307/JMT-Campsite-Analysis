@@ -3,6 +3,7 @@ from sklearn.metrics import silhouette_score
 import numpy as np
 from matplotlib import pyplot as plt
 
+
 def find_best_k(campsite_data, max_clusters):
     sil = []
 
