@@ -9,8 +9,6 @@ import plotting
 
 # TODO:
 #   finish documentation of current functions
-#   split data into train and test (and valid?) set
-#   implement classification algorithms on dataset
 #   generate plot and results of classification
 #   finish documentation and formatting of everything
 

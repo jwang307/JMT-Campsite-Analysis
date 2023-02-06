@@ -4,7 +4,7 @@ from sklearn.metrics import accuracy_score
 from sklearn.metrics import classification_report
 from sklearn.metrics import f1_score
 
-# import pandas as pd
+import pandas as pd
 # import seaborn as sns
 
 '''
@@ -43,11 +43,13 @@ def test_logreg(model: LogisticRegression, X, y):
     y_pred = model.predict(X)
     cm = confusion_matrix(y, y_pred)
     accuracy = accuracy_score(y, y_pred)
-    report = classification_report(y, y_pred)
+    report = classification_report(y, y_pred, output_dict=True)
     # f1 = f1_score(y, y_pred)
     print(cm)
     print(accuracy)
-    print(report)
+    # print(report)
     # print(f1)
     # print_confusion_matrix(cm, [])
+
+    pd.DataFrame(report).transpose().to_csv('results/Logreg_Report.csv')
 
